@@ -4,7 +4,7 @@
 
 __Лекция 1.__ Рубцов А. Архитектура ЭВМ. Конвейер
 
-  Презентация: [Cсылка](1.1_Rubtsov_Architecture_ pipeline.pdf) 
+  Презентация: [Cсылка](1.1_Rubtsov_Architecture_pipeline.pdf) 
 
   Запись трансляции: [Cсылка](https://www.youtube.com/watch?v=eZO4yVNUs_g&t=1590s)
 
