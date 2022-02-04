@@ -12,3 +12,11 @@
   Презентация: [Cсылка](2.2._Kasimov_Intel_compiler_overview_and_optimizations.pdf)
   
   Запись трансляции: [Cсылка](https://www.youtube.com/watch?v=vHX98dKVGjs&t=11290s)
+  
+## День 3
+
+ __Практика 2.__ Хатько Р. Профилирование и бенчмаркинг
+
+  Презентация: [Cсылка](2.3._Khatko_-_Profiling_and_benchmarking.pdf) 
+
+  Запись трансляции: [Cсылка](https://www.youtube.com/watch?v=Z4HsGeg0tDU&t=10803s)
