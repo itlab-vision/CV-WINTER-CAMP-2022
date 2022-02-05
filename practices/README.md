@@ -21,3 +21,12 @@
  
 
   Запись трансляции: [Cсылка](https://www.youtube.com/watch?v=Z4HsGeg0tDU&t=10803s)
+  
+
+## День 4
+
+__Лекция 1.__ Васильев Е. Введение в компьютерное зрение
+
+  Материалы: [Cсылка](4.1._Vasiliev_Introduction_to_computer_vision.zip)  
+  
+  Запись трансляции: [Cсылка]()
